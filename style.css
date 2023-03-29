@@ -21,7 +21,7 @@ font-family: 'Roboto Slab', serif; */
     /* background-color: black; */
     color: black;
     padding: 10px;
-    background-image: linear-gradient(45deg, lightblue,deeppink,yellow) ;
+    background-image: linear-gradient(45deg, rgb(35, 251, 236),rgb(255, 113, 189),rgb(170, 255, 0)) ;
 }
 .heading{
     font-family: 'Akshar', sans-serif;
@@ -52,10 +52,12 @@ font-family: 'Roboto Slab', serif; */
 .photos span{
     font-family: 'Ubuntu' , serif;
     text-decoration: underline;
-    text-shadow: 5px 5px 5px rgb(33, 61, 51);
+    text-shadow: 2px 2px 5px rgb(102, 102, 102);
 }
 li{
     font-family: 'Ubuntu' , serif;
+    text-shadow: 2px 2px 5px rgb(102, 102, 102);
+    text-decoration: underline;
 }
 .images-new{
     /* align-items: center; */
